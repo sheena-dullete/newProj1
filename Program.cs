@@ -2,8 +2,3 @@
 Console.WriteLine("Hello Philippines, Hello, World!");
 Console.WriteLine("New line of Code");
 Console.WriteLine("Another Modification");
-Console.WriteLine("Another Modification");
-Console.WriteLine("Another Modification");
-Console.WriteLine("Another Modification");
-Console.WriteLine("Another Modification");
-Console.WriteLine("Another Modification");
